@@ -22,3 +22,6 @@ Notes:
 To run the server: 'npm run dev'; 'dev' is defined in package.json
 .env includes environment variable; use 'dotenv' to call the variable; identify if it's in production
 link to tutorial: https://www.youtube.com/watch?v=jK7mcMrYzj8&list=PL-LRDpVN2fZA-1igOQ6PDcqfBjS-vaC7w
+
+git setup
+https://gist.github.com/alexpchin/102854243cd066f8b88e
